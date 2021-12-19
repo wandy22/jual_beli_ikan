@@ -1,0 +1,34 @@
+.navbar.navbar-default{
+    background-color: #134161;
+    color: #fff;
+    border: none;
+}
+.navbar.navbar-default .navbar-toggle{
+    background-color: transparent;
+}
+.navbar.navbar-default .navbar-toggle > .icon-bar{
+    background-color: #fff;
+}
+.navbar.navbar-default > .navbar-header > .navbar-brand,
+.navbar.navbar-default > .navbar-collapse > .navbar-nav > li > a{
+    color: #fff;
+}
+.title-profile{
+    font-weight: bold;
+    font-size: 32px;
+    margin: 0;
+    margin-top: 12px;
+}
+.meta{
+    margin-top: -2px;
+    font-size: 13px;
+    color: #666;
+    margin-bottom: 15px;
+}
+.kotak-profile-kiri{
+    margin-right: 10px;
+}
+.kotak-profile-kiri img{
+    width: 220px;
+    height: 190px;
+}

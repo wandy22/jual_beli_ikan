@@ -1,0 +1,41 @@
+.content-login{
+    width: 330px;
+    margin: 120px auto;
+}
+.kotak-berita{
+    margin-bottom: 20px;
+}
+.img-bg{
+    background: url('../gambar/logodiskominfo.jpg')no-repeat;
+    padding: 220px;
+    margin: 20px 50px 75px 50px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    position: relative;
+    display: block;
+}
+.img-bg:before{
+    position: absolute;
+    display: block;
+    content: '';
+    width: 10%;
+    height: 2px;
+    background-color: #c0c0c0;
+    bottom: -30px;
+    left: -2.5%;
+}
+.footer-custom{
+    border-radius: 0;
+    margin-bottom: 0;
+    margin-top: 25px;
+    border: 0;
+}
+.space-padding-10{
+    padding-top:5px;
+    padding-bottom:5px;
+}
+.space-padding-20{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
